@@ -1,7 +1,7 @@
 {
   "name": "option-config-tool",
   "version": "0.1.0",
-  "homepage": "https://github.com/micr0dust/mvdis-option-config-tool",
+  "homepage": "https://micr0dust.github.io/mvdis-config-tool",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
