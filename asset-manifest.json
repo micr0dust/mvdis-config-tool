@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mvdis-config-tool/static/css/main.4da62354.css",
+    "main.js": "/mvdis-config-tool/static/js/main.15804c9d.js",
+    "static/js/787.8a69039d.chunk.js": "/mvdis-config-tool/static/js/787.8a69039d.chunk.js",
+    "index.html": "/mvdis-config-tool/index.html",
+    "main.4da62354.css.map": "/mvdis-config-tool/static/css/main.4da62354.css.map",
+    "main.15804c9d.js.map": "/mvdis-config-tool/static/js/main.15804c9d.js.map",
+    "787.8a69039d.chunk.js.map": "/mvdis-config-tool/static/js/787.8a69039d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.15804c9d.js"
+  ]
+}
