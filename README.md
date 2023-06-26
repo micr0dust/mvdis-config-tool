@@ -1,6 +1,6 @@
 # 自動報名考照程式之設定輔助工具
 
-[![開啟網頁](https://github.com/wuilliam104286/image_saves/raw/master/img/button/btn-web-black-ch.png?raw=true "開啟網頁")](https://micr0dust.github.io/mvdis-option-config-tool)
+[![開啟網頁](https://github.com/wuilliam104286/image_saves/raw/master/img/button/btn-web-black-ch.png?raw=true "開啟網頁")](https://micr0dust.github.io/mvdis-config-tool)
 
 ## 簡介
 
